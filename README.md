@@ -21,4 +21,4 @@ MODEL EVALUATION FOCUSES ON
 2. F1 Score
 3. RMSE Score
 
-Contributions,issues and feature requests are welcome.Feel free to draw insights and refer this notebook to get started with Machine Learning
+Contributions,issues and feature requests are welcome.Feel free to check out the issues page if you have any suggestions or feedback and refer this notebook to get started with Machine Learning
